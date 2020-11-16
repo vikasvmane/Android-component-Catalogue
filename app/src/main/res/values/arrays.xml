@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mainItems">
+        <item>Day/Night</item>
+        <item>Settings Preference</item>
+        <item>Coroutines</item>
+        <item>Room</item>
+        <item>Custom View</item>
+        <item>Alarm</item>
+    </string-array>
+</resources>
