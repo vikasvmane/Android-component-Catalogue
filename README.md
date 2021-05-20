@@ -9,4 +9,5 @@ all the basic elements required for android development embeded in a single appl
 - Settings Preferences
 - Room Database Implementation
 
-![alt text](https://github.com/vikasvmane/Android-component-Catalogue/blob/main/main.png?raw=true)
+# App screenshot
+<img src="https://github.com/vikasvmane/Android-component-Catalogue/blob/main/main.png" width="400" height="790">
